@@ -1,0 +1,41 @@
+/*tacito*/
+#lateral
+{
+    float: left;   
+    height: 1300px;
+    width: 360px;
+    margin-right: 10px;
+    padding: 0px;
+    margin-top: 0px;
+}
+#lateral1
+{
+    float: right;   
+    height: 1300px;
+    width: 360px;
+    margin-left: 10px;
+    padding: 0px;
+    margin-top: 0px;
+}
+#background{
+    background-color: #82e0aa;
+    
+}
+li{
+    list-style: none;
+    margin-right: 20px;
+    padding: 0px;
+    margin-top: 5px;
+}
+footer{
+    background-color: #a1a1a1;
+    padding: 2px;
+}
+#tacito{
+    border: 5px solid transparent;
+    border-image: linear-gradient(to bottom, white 0%, green 100%) 1; 
+}
+#borde{
+    border: 2px solid black;
+}
+/*page/*
